@@ -100,6 +100,6 @@ aws cloudformation deploy \
 
 ## Author
 
-Charles Monteiro  
+C.Monteiro  
 Cloud Engineer / AWS Solutions Architect Associate Portfolio
 
